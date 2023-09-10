@@ -1,0 +1,15 @@
+.nav-link{
+    font-size: 17px;
+    padding: 5px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 4px; }
+  
+  
+ 
+
+
+.nav-link:hover{
+  color: rgb(202, 31, 174); 
+  }      

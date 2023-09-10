@@ -1,0 +1,15 @@
+.subtitulo{width: 100%;
+          height: 50px;
+          color: #86f363;
+          box-shadow:#3ae9da;
+          margin-top:10px;
+          text-align: center;
+          padding: 5px;} 
+
+     
+    .datos-1{display: flex;
+              margin-bottom: 10px;
+              background-color:#0f1312 ;
+        justify-content: center;
+        }    
+
